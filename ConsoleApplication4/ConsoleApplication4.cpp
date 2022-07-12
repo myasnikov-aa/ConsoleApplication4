@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-шт
+faslkdfjalksdj
 int main()
 {
     std::cout << "Hello World!\n";
